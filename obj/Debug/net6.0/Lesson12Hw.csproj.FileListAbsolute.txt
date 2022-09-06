@@ -1,0 +1,15 @@
+C:\BettrootCourses\lesson12\HomeWork\ConsoleApp1\bin\Debug\net6.0\Lesson12Hw.exe
+C:\BettrootCourses\lesson12\HomeWork\ConsoleApp1\bin\Debug\net6.0\Lesson12Hw.deps.json
+C:\BettrootCourses\lesson12\HomeWork\ConsoleApp1\bin\Debug\net6.0\Lesson12Hw.runtimeconfig.json
+C:\BettrootCourses\lesson12\HomeWork\ConsoleApp1\bin\Debug\net6.0\Lesson12Hw.dll
+C:\BettrootCourses\lesson12\HomeWork\ConsoleApp1\bin\Debug\net6.0\Lesson12Hw.pdb
+C:\BettrootCourses\lesson12\HomeWork\ConsoleApp1\obj\Debug\net6.0\Lesson12Hw.csproj.AssemblyReference.cache
+C:\BettrootCourses\lesson12\HomeWork\ConsoleApp1\obj\Debug\net6.0\Lesson12Hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\BettrootCourses\lesson12\HomeWork\ConsoleApp1\obj\Debug\net6.0\Lesson12Hw.AssemblyInfoInputs.cache
+C:\BettrootCourses\lesson12\HomeWork\ConsoleApp1\obj\Debug\net6.0\Lesson12Hw.AssemblyInfo.cs
+C:\BettrootCourses\lesson12\HomeWork\ConsoleApp1\obj\Debug\net6.0\Lesson12Hw.csproj.CoreCompileInputs.cache
+C:\BettrootCourses\lesson12\HomeWork\ConsoleApp1\obj\Debug\net6.0\Lesson12Hw.dll
+C:\BettrootCourses\lesson12\HomeWork\ConsoleApp1\obj\Debug\net6.0\refint\Lesson12Hw.dll
+C:\BettrootCourses\lesson12\HomeWork\ConsoleApp1\obj\Debug\net6.0\Lesson12Hw.pdb
+C:\BettrootCourses\lesson12\HomeWork\ConsoleApp1\obj\Debug\net6.0\Lesson12Hw.genruntimeconfig.cache
+C:\BettrootCourses\lesson12\HomeWork\ConsoleApp1\obj\Debug\net6.0\ref\Lesson12Hw.dll

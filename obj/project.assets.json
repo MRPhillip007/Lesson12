@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BettrootCourses\\lesson12\\HomeWork\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\BettrootCourses\\lesson12\\HomeWork\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\BettrootCourses\\lesson12\\HomeWork\\ConsoleApp1\\Lesson12Hw.csproj",
+      "projectName": "Lesson12Hw",
+      "projectPath": "C:\\BettrootCourses\\lesson12\\HomeWork\\ConsoleApp1\\Lesson12Hw.csproj",
       "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
       "outputPath": "C:\\BettrootCourses\\lesson12\\HomeWork\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
